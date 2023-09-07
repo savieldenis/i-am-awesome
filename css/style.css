@@ -1,0 +1,12 @@
+h1 {
+    color: red; 
+}
+
+p#speciaal {
+    background: yellow;
+    color: lime;
+}
+
+body {
+    background-image: url(https://media.tenor.com/2LQOdHCrA0YAAAAd/jo-bonten-surival-expert-jo-bonten.gif);
+}
